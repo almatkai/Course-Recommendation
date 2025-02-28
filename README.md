@@ -1,4 +1,4 @@
-The code is fully taken from https://github.com/Sakshammathurr. I am using it for my little local project
+__The code is fully taken from https://github.com/Sakshammathurr. I am using it for my little local project. The rest of the text written by him__
 
 https://medium.com/@sakshammathurr/course-recommendation-system-817f13928011
 
