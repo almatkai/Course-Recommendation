@@ -1,3 +1,5 @@
+The code is fully taken from https://github.com/Sakshammathurr. I am using it for my little local project
+
 https://medium.com/@sakshammathurr/course-recommendation-system-817f13928011
 
 The objective of this project is to develop a course recommendation system that assists students in selecting courses that align with their interests, learning style, and academic performance.
